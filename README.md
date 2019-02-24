@@ -3,6 +3,8 @@
 
 My first amusing attempt at making my own font. 
 
+[I blame Reddit for this](https://www.reddit.com/r/AskReddit/comments/au3iag/if_your_handwriting_was_a_font_what_would_it_be/)
+
 It is roughly influenced by the type of graffiti I would do at the bottom of my notebooks in highschool.
 
 I just wanted to spend some time getting into the creation of fonts and all that goes into it. 
