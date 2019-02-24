@@ -52,7 +52,7 @@ I guess if you sweat it in GIMP or the likes for a good 20 minutes while questio
 
 #### Credits
 
-I'd give some credit to Alexander Berglund-Höglund for teaching me parts of my graffiti chops when I was a kid.
+I give some credit to SBL for teaching me parts of my graffiti chops when I was a kid.
 Also the FC-crew, YR and the lot. You know who you are.
 
 
