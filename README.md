@@ -119,8 +119,8 @@ Format hints tell the browser what the format of the font file at a given URL is
 
     @font-face {
       font-family: klottrat;
-      src: url(elena-regular.woff2) format("woff2"),
-           url(elena-regular.woff) format("woff");
+      src: url(klottrat-regular.woff2) format("woff2"),
+           url(klottrat-regular.woff) format("woff");
     }
 
 If you list multiple formats, modern browsers will pick the first format they support based on the format hint. Therefore, it’s important to list web font formats in the order of best compression to least. 
@@ -137,11 +137,11 @@ The bulletproof syntax uses EOT, WOFF2, WOFF, raw OpenType, and SVG font files f
 
     @font-face {
       font-family: klottrat;
-      src: url(elena.eot?#iefix) format("embedded-opentype"),
-           url(elena.woff2) format("woff2"),
-           url(elena.woff) format("woff"),
-           url(elena.otf) format("opentype"),
-           url(elena.svg#elena) format("svg");
+      src: url(klottrat.eot?#iefix) format("embedded-opentype"),
+           url(klottrat.woff2) format("woff2"),
+           url(klottrat.woff) format("woff"),
+           url(klottrat.otf) format("opentype"),
+           url(klottrat.svg#elena) format("svg");
     }
 
 The first URL line might look a little odd to you. Versions of Internet Explorer 8 and below do not support the syntax for multiple font formats, and treat the entire value of the **src** property as the URL. 
@@ -160,17 +160,17 @@ Because most websites no longer support old browsers, I highly recommend using a
 
     @font-face {
       font-family: klottrat;
-      src: url(elena.woff2) format("woff2"),
-           url(elena.woff) format("woff"),
-           url(elena.otf) format("opentype");
+      src: url(klottrat.woff2) format("woff2"),
+           url(klottrat.woff) format("woff"),
+           url(klottrat.otf) format("opentype");
     }
 
 Even though older Android versions are still used, worldwide reliance on these browsers is rapidly dwindling. Soon you will probably be able to drop the raw OpenType format as well, and simplify the syntax even further:
 
     @font-face {
       font-family: klottrat;
-      src: url(elena.woff2) format("woff2"),
-           url(elena.woff) format("woff");
+      src: url(klottrat.woff2) format("woff2"),
+           url(klottrat.woff) format("woff");
     }
 
 In this case, someone running an older browser will simply see your fallback fonts instead of the web font. That’s fine; they can still read the content in the fallback font.
@@ -180,8 +180,8 @@ There’s another possible value for the **src** descriptor. The **local** funct
     @font-face {
       font-family: klottrat;
       src: local("klottrat"),
-           url(elena-regular.woff2) format("woff2"),
-           url(elena-regular.woff) format("woff");
+           url(klottrat-regular.woff2) format("woff2"),
+           url(klottrat-regular.woff) format("woff");
     }
 
 While this may seem like a great optimisation, nothing guarantees that the local font matches your web font. 
