@@ -14,7 +14,7 @@ I am actually trained in typography and have done courses in it, this font will 
 ![muh intropic](https://github.com/dotMavriQ/KLOTTRAT/blob/master/Klottrat_1.png?raw=true)
 
 ### Process of creation
-I painted the font on a piece of paper. 
+I sketched out the font on a piece of paper. 
 
 Researched apps that would allow me to do it easily. They don't exist. This is a true artform. 
 
