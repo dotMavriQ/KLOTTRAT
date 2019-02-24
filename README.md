@@ -1,4 +1,5 @@
 # KLOTTRAT
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/pools/c/83Kuv5N5xA)
 My first amusing attempt at making my own font. 
 It is roughly influenced by the type of graffiti I would do in the bottom of my notebooks at school.
 
