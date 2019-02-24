@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'KLOTTRAT';
+    src: url('fonts/KLOTTRAT.eot');
+    src: url('fonts/KLOTTRAT.eot?#iefix') format('embedded-opentype'),
+         url('fonts/KLOTTRAT.woff2') format('woff2'),
+         url('fonts/KLOTTRAT.woff') format('woff'),
+         url('fonts/KLOTTRAT.ttf')  format('truetype'),
+         url('fonts/KLOTTRAT.svg#KLOTTRAT') format('svg');
+}
