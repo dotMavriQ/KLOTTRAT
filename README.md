@@ -1,11 +1,15 @@
 # KLOTTRAT
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/pools/c/83Kuv5N5xA)
+
 My first amusing attempt at making my own font. 
-It is roughly influenced by the type of graffiti I would do in the bottom of my notebooks at school.
+
+It is roughly influenced by the type of graffiti I would do at the bottom of my notebooks in highschool.
 
 I just wanted to spend some time getting into the creation of fonts and all that goes into it. 
 
 It is *NOT* intended for sincere use, but *could* hypothetically be used for something.
+
+I am actually trained in typography and have done courses in it, this font will not reflect that, intentionally.
 
 ![muh intropic](https://github.com/dotMavriQ/KLOTTRAT/blob/master/Klottrat_1.png?raw=true)
 
