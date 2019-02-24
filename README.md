@@ -69,7 +69,7 @@ For the sake of completeness, let’s quickly run through a basic example:
 
     @font-face {
       font-family: klottrat;
-      src: url(klotter.woff);
+      src: url(klottrat.woff);
     }
 
 This creates a new web font family that can be referenced through the **font-family** or **font** shorthand property. But something’s missing here. When referencing a web font in a font stack, always make sure to include at least one fallback font in case the web font fails to load. 
